@@ -195,7 +195,7 @@ function App() {
           <button
             onClick={() => handleNetworkSwitch("bsc")}
           >
-            Switch to BSC
+            Switch to BSC chain
           </button>
           <ErrorMessage message={error} />    
         </div>
